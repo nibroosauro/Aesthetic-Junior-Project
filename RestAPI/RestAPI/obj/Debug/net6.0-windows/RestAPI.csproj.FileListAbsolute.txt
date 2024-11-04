@@ -1,0 +1,40 @@
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.AssemblyReference.cache
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.Form1.resources
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.GenerateResource.cache
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.AssemblyInfoInputs.cache
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.AssemblyInfo.cs
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.CoreCompileInputs.cache
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.exe
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.deps.json
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.runtimeconfig.json
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.dll
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.pdb
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Dummy Prodigy\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.CopyComplete
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.dll
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\refint\RestAPI.dll
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.pdb
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.genruntimeconfig.cache
+C:\Dummy Prodigy\RestAPI\RestAPI\obj\Debug\net6.0-windows\ref\RestAPI.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.exe
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.deps.json
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.runtimeconfig.json
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestAPI.pdb
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.AssemblyReference.cache
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.Form1.resources
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.GenerateResource.cache
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.AssemblyInfoInputs.cache
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.AssemblyInfo.cs
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.CoreCompileInputs.cache
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.csproj.CopyComplete
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\refint\RestAPI.dll
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.pdb
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\RestAPI.genruntimeconfig.cache
+C:\Dummy Prodigy\Modul 10\RestAPI\RestAPI\obj\Debug\net6.0-windows\ref\RestAPI.dll

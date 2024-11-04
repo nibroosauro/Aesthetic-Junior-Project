@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B41xek7rxFOAWAi5slyKAn6ydD0Z3vSnJoBuBHYxnYTe+eXQxvNtxxC3k51Vr/K9uzW7C9Nl4Wm/dCD4toEPNw==",
+  "success": true,
+  "projectFilePath": "C:\\Dummy Prodigy\\Modul 10\\RestAPI\\RestAPI\\RestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
